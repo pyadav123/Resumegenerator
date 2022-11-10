@@ -1,0 +1,24 @@
+body{
+ background-color: rgba(78, 78, 216, 0.322);
+ overflow-x: hidden;   
+}
+
+#cv-template
+{
+ display: none; 
+}
+
+#cv-form
+{
+  /* display: none;   */
+}
+.myimg{
+  /* border: 1px solid red */
+  width: 200px;
+  border-radius: 50%;
+
+}
+.background
+{
+  background-color: aqua;
+}
